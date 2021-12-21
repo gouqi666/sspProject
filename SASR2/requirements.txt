@@ -1,0 +1,15 @@
+requests==2.25.0
+tqdm==4.56.0
+PyAudio==0.2.11
+simpleaudio==1.0.4
+transformers==4.13.0
+pypinyin==0.35.0
+matplotlib==3.3.2
+SoundFile==0.10.3.post1
+numpy==1.19.5
+torch==1.10.0+cu113
+Flask==1.0
+librosa==0.8.1
+PyYAML==6.0
+scikit_learn==1.0.1
+tensorflow==2.7.0

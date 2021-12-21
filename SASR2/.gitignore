@@ -1,0 +1,7 @@
+## 忽略数据和模型
+*.wav
+*.pt
+ChineseBERT-base
+*.h5
+.idea/
+.h5
